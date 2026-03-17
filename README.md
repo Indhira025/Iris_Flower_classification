@@ -119,13 +119,7 @@ http://127.0.0.1:5000/
 <h2>🌍 Live Demo</h2>
 
 <p>
-🔗 <a href="#" target="_blank">
-Live Application
-</a>
-</p>
-
-<p>
-💻 <a href="#" target="_blank">
+💻 <a href="https://github.com/Indhira025/Iris_Flower_classification.git" target="_blank">
 GitHub Repository
 </a>
 </p>
